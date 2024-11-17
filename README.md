@@ -47,6 +47,10 @@ cd flaskr
 ```bash
 pip install -r requirements.txt
 ```
+4. Running the application
+```bash
+flask --app flaskr run
+```
 
 That's all. Thank you for reviewing my project. I am going to extend more feature
 in the future. If you have any contribution, I am ready to collaborate and support to make the project better!
